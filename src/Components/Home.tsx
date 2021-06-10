@@ -2,6 +2,8 @@ const Home = () => {
     return (
         <>
             Home jaaa
+            <br></br>
+            House from merge 
         </>
     )
 }
