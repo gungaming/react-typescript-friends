@@ -7,7 +7,7 @@ const Board = () => {
 
     return (
         <>
-
+            สวัสดี
         </>
     )
 
